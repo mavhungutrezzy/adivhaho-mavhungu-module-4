@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "457827237776",
+    "project_id": "bulgari-e-commerce",
+    "storage_bucket": "bulgari-e-commerce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457827237776:android:1946315e39d48c325bfd15",
+        "android_client_info": {
+          "package_name": "com.example.bulgari"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457827237776-hdqjrkajbob6ktlhqaptcri4kdeqtdn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_x4yNNUwEs6r5Hkw27hIkQWVQ5aHjtOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457827237776-hdqjrkajbob6ktlhqaptcri4kdeqtdn7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
